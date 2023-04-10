@@ -1,1 +1,1 @@
-# Stroke_PSN
+A Graph Attention Network Method on Patient Similarity Network for Post-stroke UTI Risk Prediction.
